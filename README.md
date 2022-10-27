@@ -81,7 +81,7 @@ Our Associations are as follows:
 - [create-react-app][]
 - [dbdiagram.io][]
 - [Postman][postman download]
-- Flatirons School Curriculumn 
+- Flatirons School Curriculum
 
 [create-react-app]: https://create-react-app.dev/docs/getting-started
 [create repo]: https://docs.github.com/en/get-started/quickstart/create-a-repo
