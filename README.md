@@ -68,9 +68,9 @@ For example, within our application our front to back end allows a user to:
 - **Update** an individual brew card
 - **Delete** a favorite, and also delete an entire post. 
 
-An `Entry` _has many_ `Favorites` and _belongs to_ a `User`
-A `Favorite` _belongs to_ a `User` and _belongs to_ an `Entry`
-A `User` _has many_ `Favorites` and _has many_ `Entries` and _has many_ `Favorited_entries` _through_ `Favorites` with a _source_ of `Entry`
+- An `Entry` _has many_ `Favorites` and _belongs to_ a `User`
+- A `Favorite` _belongs to_ a `User` and _belongs to_ an `Entry`
+- A `User` _has many_ `Favorites` and _has many_ `Entries` and _has many_ `Favorited_entries` _through_ `Favorites` with a _source_ of `Entry`
 
 
 
