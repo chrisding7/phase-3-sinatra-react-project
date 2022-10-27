@@ -51,3 +51,5 @@ end
 gem "faker", "~> 2.19"
 
 gem "pg"
+
+gem "puma"
